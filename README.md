@@ -1,6 +1,8 @@
 # My First Docker Repo
 
-## Start nginx server
+## Develop
+
+Start nginx server:
 
 ```
 docker-compose up
@@ -12,7 +14,9 @@ Stop server:
 docker-compose down
 ```
 
-## Build docker image
+## Builded image
+
+Build docker image:
 
 ```
 docker build -t ycs77/my-first-docker .
